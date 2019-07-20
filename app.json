@@ -1,0 +1,7 @@
+{
+	"name": "healthAPI",
+	"description": "calculate BMI",
+	"repository": "https://github.com/minmon98/healthAPI",
+	"keywords": ["node", "express", "static"],
+	"image": "heroku/nodejs"
+}
